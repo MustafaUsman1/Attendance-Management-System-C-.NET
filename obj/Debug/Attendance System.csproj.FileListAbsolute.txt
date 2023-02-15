@@ -1,0 +1,19 @@
+C:\Users\Yousuf Traders\source\repos\Attendance System\Attendance System\bin\Debug\Attendance System.exe.config
+C:\Users\Yousuf Traders\source\repos\Attendance System\Attendance System\bin\Debug\Attendance System.exe
+C:\Users\Yousuf Traders\source\repos\Attendance System\Attendance System\bin\Debug\Attendance System.pdb
+C:\Users\Yousuf Traders\source\repos\Attendance System\Attendance System\bin\Debug\MetroFramework.dll
+C:\Users\Yousuf Traders\source\repos\Attendance System\Attendance System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Yousuf Traders\source\repos\Attendance System\Attendance System\obj\Debug\Attendance System.csproj.AssemblyReference.cache
+C:\Users\Yousuf Traders\source\repos\Attendance System\Attendance System\obj\Debug\Attendance System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yousuf Traders\source\repos\Attendance System\Attendance System\obj\Debug\Attendance_System.LoginForm.resources
+C:\Users\Yousuf Traders\source\repos\Attendance System\Attendance System\obj\Debug\Attendance_System.Properties.Resources.resources
+C:\Users\Yousuf Traders\source\repos\Attendance System\Attendance System\obj\Debug\Attendance System.csproj.GenerateResource.cache
+C:\Users\Yousuf Traders\source\repos\Attendance System\Attendance System\obj\Debug\Attendance System.csproj.CoreCompileInputs.cache
+C:\Users\Yousuf Traders\source\repos\Attendance System\Attendance System\obj\Debug\Attendance System.csproj.CopyComplete
+C:\Users\Yousuf Traders\source\repos\Attendance System\Attendance System\obj\Debug\Attendance System.exe
+C:\Users\Yousuf Traders\source\repos\Attendance System\Attendance System\obj\Debug\Attendance System.pdb
+C:\Users\Yousuf Traders\source\repos\Attendance System\Attendance System\obj\Debug\Attendance_System.MainForm.resources
+C:\Users\Yousuf Traders\source\repos\Attendance System\Attendance System\obj\Debug\Attendance_System.attendance.resources
+C:\Users\Yousuf Traders\source\repos\Attendance System\Attendance System\obj\Debug\Attendance_System.course.resources
+C:\Users\Yousuf Traders\source\repos\Attendance System\Attendance System\obj\Debug\Attendance_System.st.resources
+C:\Users\Yousuf Traders\source\repos\Attendance System\Attendance System\obj\Debug\Attendance_System.students.resources
